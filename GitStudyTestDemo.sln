@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitStudyTestDemo", "GitStudyTestDemo\GitStudyTestDemo.csproj", "{053A29AC-8CB3-4E89-ACAE-57D28CAC1C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionProgram", "AdditionProgram\AdditionProgram.csproj", "{D0C408F9-8AC2-4032-92D6-653105ADF487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{053A29AC-8CB3-4E89-ACAE-57D28CAC1C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053A29AC-8CB3-4E89-ACAE-57D28CAC1C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053A29AC-8CB3-4E89-ACAE-57D28CAC1C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053A29AC-8CB3-4E89-ACAE-57D28CAC1C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C408F9-8AC2-4032-92D6-653105ADF487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C408F9-8AC2-4032-92D6-653105ADF487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C408F9-8AC2-4032-92D6-653105ADF487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C408F9-8AC2-4032-92D6-653105ADF487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E09F9114-80FC-44A7-86DD-17EC45C9EEEF}
+	EndGlobalSection
+EndGlobal
